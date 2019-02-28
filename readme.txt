@@ -1,4 +1,5 @@
 git is a version control system.
 git is free.
 git is a git.
-gitttttt.
+git.
+My stupid boss still prefers SVN.
