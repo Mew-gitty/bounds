@@ -6,9 +6,3 @@ My stupid boss still prefers SVN.
 
 test1222222
 test2
-test1qqqwwwwqq
-
-02da10ce3a5e219f79dc46fd5a9c70120a75693e
-
-test3
-5294bbd98d6c8cc4338f735febaecab38e28a516
